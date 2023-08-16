@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I am Eduarda Branco</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [a Excel Sheet Merger](https://github.com/Haironmysoup/Excel-File-Merger)
+- 🔭 I’m currently working on [GPT-3](https://github.com/Haironmysoup/gpt-3)
 
 - 🌱 I’m currently learning **React**
 
